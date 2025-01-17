@@ -5,7 +5,7 @@ To enable this screensaver in Windows, follow these steps:
 
 1. Run starchaos-screensaver.exe
 
-2. Click START > PS Settings > Personalization > Lock Screen > Screen saver
+2. Click START > PC Settings > Personalization > Lock Screen > Screen saver
 
 3. Select the screensaver named "StarChaos". 
 
