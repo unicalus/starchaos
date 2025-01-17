@@ -3,7 +3,7 @@ Star chaos free screen saver for windows
 
 To enable this screensaver in Windows, follow these steps:
 
-1. Donwload installer in Github or direct https://github.com/unicalus/starchaos/raw/main/starchaos-screensaver.exe
+1. Download installer in Github or direct https://github.com/unicalus/starchaos/raw/main/starchaos-screensaver.exe
 
 2. Run starchaos-screensaver.exe
 
