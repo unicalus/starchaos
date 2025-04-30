@@ -5,9 +5,7 @@ To enable this screensaver in Windows, follow these steps:
 
 1. Download installer in Github
 
-or direct 32bit: https://github.com/unicalus/starchaos/raw/main/starchaos-screensaver.exe
-
-or 64bit https://github.com/unicalus/starchaos/raw/main/starchaos-screensaver64bit.exe
+direct 32bit: https://github.com/unicalus/starchaos/raw/main/starchaos-screensaver.exe
 
 3. Run starchaos-screensaver.exe
 
